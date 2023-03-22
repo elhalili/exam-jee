@@ -2,7 +2,7 @@
     <nav>
         <ul>
             <li>
-                <a class="active" href="index.html#">Hello in task management app</a>
+                <a class="active" href="index.html#">Task management app</a>
             </li>
             <li>
                 <a href="addTask">Add new Task</a>
